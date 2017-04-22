@@ -1,4 +1,7 @@
-# test coverage for  [generator-enterprise-angular (v0.0.6)](https://github.com/mnadeem/generator-enterprise-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-enterprise-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-enterprise-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-enterprise-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-enterprise-angular)
+# npmtest-generator-enterprise-angular
+
+#### basic test coverage for  [generator-enterprise-angular (v0.0.6)](https://github.com/mnadeem/generator-enterprise-angular#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-enterprise-angular.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-enterprise-angular) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-enterprise-angular.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-enterprise-angular)
+
 #### Yeoman Generator for Enterprise Angular projects.
 
 [![NPM](https://nodei.co/npm/generator-enterprise-angular.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-enterprise-angular)
@@ -96,7 +99,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.0.6"
+    "version": "0.0.6",
+    "bin": {}
 }
 ```
 
